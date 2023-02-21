@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript, VueJs.
+- 🌱 I’m currently learning JavaScript, VueJs, ReactJs.
 - 📫 How to reach me furkannsaglam@gmail.com
 
 <!---
